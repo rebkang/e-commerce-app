@@ -30,13 +30,13 @@ A full-stack ecommerce website that allows buyers to browse products, filter the
 
 ---
 
-1. **Clone this repository**
+1. **Clone this repository. Note that this command will create the `e-commerce-app` directory.**
 
 ```
 git clone https://github.com/rebkang/e-commerce-app.git
 ```
 
-2. **Create Stripe account and retreive the secret key**
+2. **Go to [Stripe](https://dashboard.stripe.com/test/dashboard) and create a Stripe account. Then retreive the secret key.**
 
 3. **Env variable**
    Create a .env file in the server directory and add the following:
