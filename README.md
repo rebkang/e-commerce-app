@@ -24,7 +24,6 @@ A full-stack ecommerce website that allows buyers to browse products, filter the
 - [Node.js](https://nodejs.org/en/)
 - [Strapi](https://docs.strapi.io/)
 - [Stripe](https://stripe.com/docs)
-- [Dotenv](https://www.npmjs.com/package/dotenv)
 
 # Usage
 
