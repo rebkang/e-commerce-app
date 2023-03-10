@@ -12,12 +12,12 @@ A full-stack ecommerce website that allows buyers to browse products, filter the
 
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
+- [React Responsive Carousel](https://www.npmjs.com/package/react-responsive-carousel)
 - [Redux Toolkit](https://redux-toolkit.js.org/tutorials/quick-start)
 - [Material UI](https://mui.com/core/)
 - [Formik](https://formik.org/docs/overview)
 - [Yup](https://github.com/jquense/yup)
-- [Stripe JS](https://stripe.com/docs/js)
-- [React Responsive Carousel](https://www.npmjs.com/package/react-responsive-carousel)
+- [Stripe.js](https://stripe.com/docs/js)
 
 **Backend**
 
@@ -29,13 +29,13 @@ A full-stack ecommerce website that allows buyers to browse products, filter the
 
 ---
 
-1. **Clone this repository. Note that this command will create the `e-commerce-app` directory.**
+1. **Clone this repository. Note that the following command will create the `e-commerce-app` directory.**
 
 ```
 git clone https://github.com/rebkang/e-commerce-app.git
 ```
 
-2. **Go to [Stripe](https://dashboard.stripe.com/test/dashboard) and create a Stripe account. Then retreive the secret key.**
+2. **Create a [Stripe](https://dashboard.stripe.com/test/dashboard) account. Then retreive the secret key.**
 
 3. **Env variable**
    Create a .env file in the server directory and add the following:
